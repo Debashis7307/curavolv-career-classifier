@@ -1,0 +1,62 @@
+[
+    {
+        "candidate_id": "Sample_FreshGrad_01",
+        "top_tracks": [
+            {
+                "track": "T01",
+                "reason": "Aligned due to SOP focus: 'wants to transition to administrative leadership and focus on quality improvemen...' and relevant background."
+            }
+        ],
+        "recommended_degree": "MPH"
+    },
+    {
+        "candidate_id": "Sample_MPH_Community_01",
+        "top_tracks": [
+            {
+                "track": "T05",
+                "reason": "Aligned due to SOP focus: 'design community health programs and focus on health equity...' and relevant background."
+            }
+        ],
+        "recommended_degree": "MPH"
+    },
+    {
+        "candidate_id": "Sample_MBA_Finance_01",
+        "top_tracks": [
+            {
+                "track": "T03",
+                "reason": "Aligned due to SOP focus: 'interested in healthcare finance, revenue cycle, payer strategy...' and relevant background."
+            }
+        ],
+        "recommended_degree": "MBA-HC"
+    },
+    {
+        "candidate_id": "Sample_MSHI_Tech_01",
+        "top_tracks": [
+            {
+                "track": "T09",
+                "reason": "Aligned due to SOP focus: 'interested in ehr systems, interoperability, clinical decision support...' and relevant background."
+            }
+        ],
+        "recommended_degree": "MSHI"
+    },
+    {
+        "candidate_id": "Sample_MHA_LTC_01",
+        "top_tracks": [
+            {
+                "track": "T01",
+                "reason": "Aligned due to SOP focus: 'move into managing long-term care and quality improvement...' and relevant background."
+            }
+        ],
+        "recommended_degree": "MPH"
+    },
+    {
+        "candidate_id": "Sample_MPH_Policy_01",
+        "top_tracks": [
+            {
+                "track": "T07",
+                "reason": "Aligned due to SOP focus: 'work in healthcare policy and advocacy...' and relevant background."
+            }
+        ],
+        "recommended_degree": "MPH"
+    }
+]
